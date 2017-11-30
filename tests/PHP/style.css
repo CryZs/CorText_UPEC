@@ -1,0 +1,27 @@
+body{
+    font-family:"Helvetica";
+}
+div{
+    display:none;
+    margin:0 20%;
+}
+
+hr{
+    margin:2% 15%;
+}
+body{
+    text-align:center;
+}
+
+table{
+    margin:auto;
+}
+button{
+    margin:10px 0;
+}
+.voeux{
+    border:1px solid black;
+    border-radius:5px;
+    background:#E9E9E9;
+    padding:10px;
+}
